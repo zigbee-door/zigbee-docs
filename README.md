@@ -15,7 +15,7 @@
 - [dnode](https://github.com/substack/dnode)适合异步双向远程方法调用.
 - [zmq](https://github.com/JustinTulloss/zeromq.node)
 性能非常强大,如果要选择使用TCP通信,那么宁可使用[zmq](https://github.com/JustinTulloss/zeromq.node),TCP通信是单对单的,[zmq](https://github.com/JustinTulloss/zeromq.node)还可以做到多对多.
-- Pub/Sub–Redis订阅和发布.
+- [Pub/Sub–Redis](http://redis.io/topics/pubsub)订阅和发布.
 
 
 
