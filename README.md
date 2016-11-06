@@ -1,10 +1,10 @@
 # zigbee-docs
 
 ## 1. 介绍
-- [项目总体介绍](https://github.com/zigbee-door/time-line/introduce.md)
+- [项目总体介绍](https://github.com/zigbee-door/zigbee-docs/blob/master/introduce.md)
 
 ## 2. 预言
-- [上位机通信技术预言](https://github.com/zigbee-door/time-line/communication.md)
+- [上位机通信技术预言](https://github.com/zigbee-door/zigbee-docs/blob/master/communication.md)
 
 
 
