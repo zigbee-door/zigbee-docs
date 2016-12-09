@@ -10,4 +10,4 @@
 - [Z-Stack](https://github.com/zigbee-door/zigbee-docs/blob/master/Z-Stack.docx)
 
 ## 4. 2016/12/9 阶段性工作总结
-- [Z-Stack](https://github.com/zigbee-door/zigbee-docs/blob/master/periodical_report.pptx)
+- [阶段性工作小结PPT](https://github.com/zigbee-door/zigbee-docs/blob/master/periodical_report.pptx)
