@@ -13,4 +13,4 @@
 - [阶段性工作小结PPT](https://github.com/zigbee-door/zigbee-docs/blob/master/periodical_report.pptx)
 
 ## 5. 上位机和基站之间的通信协议
-- [WirelessDoor_Protocol_Rev3_0](https://github.com/zigbee-door/zigbee-docs/blob/master/WirelessDoor_Protocol_Rev3_0.pdf)
+- [Protocol_Rev3_1](https://github.com/zigbee-door/zigbee-docs/blob/master/Protocol_Rev3_1_20161228.docx)
