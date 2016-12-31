@@ -14,3 +14,6 @@
 
 ## 5. 上位机和基站之间的通信协议
 - [Protocol_Rev3_1](https://github.com/zigbee-door/zigbee-docs/blob/master/Protocol_Rev3_1_20161228.docx)
+
+## 6. 客户端功能说明
+- [Protocol_Rev3_1](https://github.com/zigbee-door/zigbee-docs/blob/master/客户端功能说明.docx)
