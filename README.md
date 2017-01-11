@@ -17,3 +17,6 @@
 
 ## 6. 客户端功能说明
 - [Protocol_Rev3_1](https://github.com/zigbee-door/zigbee-docs/blob/master/客户端功能说明.docx)
+
+## 7. 门锁控制器电路
+- [Lock](https://github.com/zigbee-door/zigbee-docs/blob/master/Lock.pdf)
